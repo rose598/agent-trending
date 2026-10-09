@@ -1,0 +1,40 @@
+# GitHub Agent 生态热门项目日报 —— 配置
+# 搜索 query：agent 应用层 + agent infra 基础设施都覆盖
+queries:
+  - "topic:ai-agents"
+  - "topic:llm-agents"
+  - "topic:multi-agents"
+  - "topic:agent-framework"
+  - "topic:mcp"                 # Model Context Protocol 生态
+  - "topic:llm-infrastructure"
+  - "topic:ai-agent-framework"
+  - "agent framework in:name,description"
+
+# 过滤与抓取参数
+min_stars: 50            # 最低星数门槛
+created_since_days: 90   # 只看最近 90 天创建的项目（足够"新"，又不会太窄）
+per_page: 30
+max_pages: 2             # 每个 query 最多翻 2 页 = 60 条
+
+# 分层预算：控制 README 抓取与 LLM 成本
+top_n_table: 20          # 日报总览表行数
+top_n_readme: 30         # 抓 README 的项目数
+top_n_llm: 12            # 送 LLM 深度总结的项目数（成本大头）
+readme_max_chars: 4000
+
+# 输出目录（相对仓库根）
+reports_dir: reports
+data_dir: data
+
+# LLM 总结层：兼容 OpenAI /chat/completions 接口
+# DeepSeek:  base_url https://api.deepseek.com        model deepseek-chat
+# 智谱 GLM:   base_url https://open.bigmodel.cn/api/paas/v4  model glm-4-flash
+# Kimi:      base_url https://api.moonshot.cn/v1      model moonshot-v1-8k
+llm:
+  base_url: https://api.deepseek.com
+  model: deepseek-chat
+  api_key_env: LLM_API_KEY   # 从环境变量读 key，不要写进本文件
+  max_concurrency: 4
+  timeout: 60
+  max_tokens: 900
+  temperature: 0.3

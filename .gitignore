@@ -1,0 +1,12 @@
+# 密钥与本地环境
+.env
+*.key
+
+# 运行数据（seen.json 需要保留则删掉 data/ 这行，改为只忽略 snapshot）
+data/snapshot-*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

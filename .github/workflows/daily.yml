@@ -1,0 +1,49 @@
+name: daily-agent-trending
+
+# 每天 01:30 UTC = 北京时间 09:30 自动跑；也支持手动触发
+on:
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-agent-trending
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+        run: python run.py
+
+      - name: Commit report
+        run: |
+          git config user.name  "agent-trending-bot"
+          git config user.email "actions@github.com"
+          git add reports/ data/seen.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "daily report $(date -u +%F)"
+            git push
+          fi
