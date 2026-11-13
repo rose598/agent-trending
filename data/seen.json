@@ -1,13 +1,13 @@
 {
  "CopilotKit/OpenBot": {
-  "stars": 11162,
+  "stars": 11902,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ApodexAI/FrontierAgent": {
-  "stars": 5436,
+  "stars": 5438,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "hypit-ai/hypit": {
   "stars": 25945,
@@ -40,19 +40,19 @@
   "last_seen": "2026-10-16"
  },
  "Human-Agent-Society/reef": {
-  "stars": 7804,
+  "stars": 7811,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "KKKKhazix/AIHOT": {
-  "stars": 10432,
+  "stars": 10574,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "rehan-remade/universal-modder": {
-  "stars": 9634,
+  "stars": 9659,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "miqdadbadjuber/anti-slop": {
   "stars": 8243,
@@ -70,14 +70,14 @@
   "last_seen": "2026-10-14"
  },
  "Ebony-Vinyl/dsh-our-free-model": {
-  "stars": 70644,
+  "stars": 71930,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "totec448-spec/chat-on-steroids": {
-  "stars": 5162,
+  "stars": 5170,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "microsoft/skill-recorder": {
   "stars": 5252,
@@ -90,14 +90,14 @@
   "last_seen": "2026-11-09"
  },
  "Louis-CFM/coucou": {
-  "stars": 7143,
+  "stars": 7161,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "XiaoDuoYa/codex-with-chatgpt": {
-  "stars": 7699,
+  "stars": 7700,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "elie222/rakazo": {
   "stars": 7881,
@@ -110,19 +110,19 @@
   "last_seen": "2026-11-07"
  },
  "shader-effects-inc/shaders": {
-  "stars": 5911,
+  "stars": 5926,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ZJU-REAL/Easel": {
-  "stars": 4616,
+  "stars": 4648,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "tigerless-labs/agent-memory": {
-  "stars": 4315,
+  "stars": 4316,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "deepseek-ai/deepseek-harness": {
   "stars": 278510,
@@ -145,14 +145,14 @@
   "last_seen": "2026-11-12"
  },
  "Ryze-AI-Adgent/open-seo-mcp-skills": {
-  "stars": 9352,
+  "stars": 9444,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "wang2122/sprix-sage-router": {
   "stars": 3562,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Leonxlnx/unlazy": {
   "stars": 4324,
@@ -160,19 +160,19 @@
   "last_seen": "2026-11-07"
  },
  "edenfunf/reelmimic": {
-  "stars": 1945,
+  "stars": 1972,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Oldcircle/geo-sleuth": {
-  "stars": 6887,
+  "stars": 6941,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "lemomo-ai/lemo-opuscar": {
-  "stars": 15041,
+  "stars": 15426,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "fuxicodex/Fuxi": {
   "stars": 3203,
@@ -185,9 +185,9 @@
   "last_seen": "2026-10-21"
  },
  "duty1g/x64dbg-mcp-server": {
-  "stars": 2817,
+  "stars": 2824,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "penso/herdr-gpui": {
   "stars": 2121,
@@ -195,29 +195,29 @@
   "last_seen": "2026-11-03"
  },
  "monid-ai/monid": {
-  "stars": 6177,
+  "stars": 6185,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "amontlabs/lcu": {
-  "stars": 2417,
+  "stars": 2420,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Vincentwei1021/anything2explainer": {
-  "stars": 3244,
+  "stars": 3271,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "mikehasa/golive-skill": {
-  "stars": 1495,
+  "stars": 1522,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "longsurf-ai/openchart": {
-  "stars": 363,
+  "stars": 368,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "cbrock84/headcount": {
   "stars": 2576,
@@ -242,12 +242,12 @@
  "awlevin/typesafe-computer-use": {
   "stars": 1300,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "xzf-thu/VoiceMem": {
-  "stars": 2899,
+  "stars": 2901,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Appllama/appllama-skills": {
   "stars": 5070,
@@ -257,7 +257,7 @@
  "BootLoops-ai/bootloops": {
   "stars": 444,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "redhat-et/ripwire": {
   "stars": 2459,
@@ -272,7 +272,7 @@
  "qiz029/dscode": {
   "stars": 999,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Pinvou/pinvou-agent": {
   "stars": 2569,
@@ -280,9 +280,9 @@
   "last_seen": "2026-10-22"
  },
  "undefined-ui/second-brain-os": {
-  "stars": 1566,
+  "stars": 1571,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "xmanrui/dsh-im": {
   "stars": 3519,
@@ -295,14 +295,14 @@
   "last_seen": "2026-10-30"
  },
  "2akouwu/reverify": {
-  "stars": 1339,
+  "stars": 1341,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "adtexterry-lgtm/unigit-ecosystem": {
   "stars": 2290,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Kritt-ai/open-kritt": {
   "stars": 2307,
@@ -310,9 +310,9 @@
   "last_seen": "2026-10-18"
  },
  "punkpeye/awesome-remote-mcp-servers": {
-  "stars": 3035,
+  "stars": 3103,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "MemTensor/memmy-agent": {
   "stars": 2096,
@@ -325,9 +325,9 @@
   "last_seen": "2026-10-13"
  },
  "kharmanskyi/open-steps": {
-  "stars": 1281,
+  "stars": 1282,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "fy-agent/fyagent": {
   "stars": 1131,
@@ -337,7 +337,7 @@
  "kyky2347/ALTA": {
   "stars": 1077,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "OpenSparX/MasterAgent": {
   "stars": 980,
@@ -350,14 +350,14 @@
   "last_seen": "2026-10-08"
  },
  "Spielewoy/autoprompt-skill": {
-  "stars": 1227,
+  "stars": 1232,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "okf-memory/okf-agent-memory": {
-  "stars": 864,
+  "stars": 865,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "aoci-spec/aoci-code": {
   "stars": 1864,
@@ -365,9 +365,9 @@
   "last_seen": "2026-11-06"
  },
  "ruc-datalab/EvoOntology": {
-  "stars": 1200,
+  "stars": 1207,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "feigeCode/navop": {
   "stars": 1813,
@@ -392,7 +392,7 @@
  "cinderline/northcinder": {
   "stars": 1201,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Paritok-official/paritok-4b-v1": {
   "stars": 1457,
@@ -400,14 +400,14 @@
   "last_seen": "2026-10-13"
  },
  "kgoedecke/doop": {
-  "stars": 1983,
+  "stars": 1998,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "maxrave-dev/kotlin-footguns": {
-  "stars": 2252,
+  "stars": 2281,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "0xsline/awesome-deepseek-harness": {
   "stars": 1334,
@@ -415,9 +415,9 @@
   "last_seen": "2026-11-09"
  },
  "agents-universe/agents-universe": {
-  "stars": 900,
+  "stars": 907,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "scenario-labs/skills": {
   "stars": 3641,
@@ -425,19 +425,19 @@
   "last_seen": "2026-11-10"
  },
  "Zyrexnn/Cybermes": {
-  "stars": 1021,
+  "stars": 1023,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "AetherLabsAI/RSIAgent": {
-  "stars": 605,
+  "stars": 606,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "20000419/fauxnix": {
   "stars": 900,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "petergyang/human-review": {
   "stars": 1434,
@@ -450,9 +450,9 @@
   "last_seen": "2026-10-22"
  },
  "scaleapi/agentenv-framework": {
-  "stars": 430,
+  "stars": 433,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ZJU-REAL/HugAgentOS": {
   "stars": 614,
@@ -507,7 +507,7 @@
  "Simreal-AI/Simreal-MLBench": {
   "stars": 269,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Intuition-Lab/personal-model": {
   "stars": 1331,
@@ -520,9 +520,9 @@
   "last_seen": "2026-10-12"
  },
  "0sec-labs/0": {
-  "stars": 1317,
+  "stars": 1335,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "naw103/foremerge": {
   "stars": 522,
@@ -562,7 +562,7 @@
  "Eurekaleo/awesome-ai-for-games": {
   "stars": 390,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "TryCaspian/caspian-sdk": {
   "stars": 973,
@@ -582,7 +582,7 @@
  "valentynkit/awesome-jev-typesafe": {
   "stars": 190,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "XYZ-AI-Lab/axrl": {
   "stars": 612,
@@ -607,7 +607,7 @@
  "Sidiora-Labs/centra-gideon-agent": {
   "stars": 212,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "mikehasa/agentacct": {
   "stars": 769,
@@ -615,14 +615,14 @@
   "last_seen": "2026-10-22"
  },
  "RoversX/ThinkTerm": {
-  "stars": 245,
+  "stars": 246,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Pal-AI-Lab/Cortico": {
   "stars": 347,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "icebird1998/scientific-illustrator": {
   "stars": 954,
@@ -632,12 +632,12 @@
  "Gen-Verse/ScienceBuddy": {
   "stars": 421,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Agenta-AI/awesome-ai-agent-platforms": {
   "stars": 507,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "clavia-labs/tardigrade": {
   "stars": 427,
@@ -652,7 +652,7 @@
  "apromisedland/Tame_3D": {
   "stars": 141,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "FuRongJun-1999/dsh-memory": {
   "stars": 661,
@@ -667,7 +667,7 @@
  "arsumbris/arsumbris": {
   "stars": 270,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "1173591564/Dynamics-memory": {
   "stars": 185,
@@ -687,7 +687,7 @@
  "JordyZomer/lemmalog": {
   "stars": 347,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "criptogus/HermesOffice": {
   "stars": 622,
@@ -705,9 +705,9 @@
   "last_seen": "2026-10-08"
  },
  "Continuum-AI-Corp/OrcaReplay": {
-  "stars": 539,
+  "stars": 611,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "sv-number/mcp-server": {
   "stars": 534,
@@ -717,7 +717,7 @@
  "GhalebDweikat/winnow": {
   "stars": 115,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "aaron-for-value/VeriRun": {
   "stars": 322,
@@ -727,7 +727,7 @@
  "makifbaysal/tasktrooper": {
   "stars": 122,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Mo271-del/BloxAgent-Studio-Bridge": {
   "stars": 69,
@@ -745,19 +745,19 @@
   "last_seen": "2026-11-02"
  },
  "Soodok/Deepseek-Harness-Local-Android": {
-  "stars": 521,
+  "stars": 525,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "FishBottle7/opencode2dsh": {
-  "stars": 396,
+  "stars": 400,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Luciole-Studio/Misaka-Agent": {
   "stars": 253,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "gioblu/NPC-Forge": {
   "stars": 269,
@@ -782,12 +782,12 @@
  "thinkany-ai/douchat": {
   "stars": 159,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Shyboy0499/precondition-library": {
-  "stars": 404,
+  "stars": 414,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "converge-ai-labs/agent-foundation": {
   "stars": 171,
@@ -795,19 +795,19 @@
   "last_seen": "2026-10-10"
  },
  "theguysudo/ENZO": {
-  "stars": 120,
+  "stars": 121,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "yuema137/PairTeX": {
   "stars": 173,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "agent-for-dummys/Agent-For-Dummies": {
-  "stars": 188,
+  "stars": 191,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "YizhiSong/FriesTrader": {
   "stars": 225,
@@ -815,14 +815,14 @@
   "last_seen": "2026-10-15"
  },
  "d4ncboz/github-farm": {
-  "stars": 358,
+  "stars": 357,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "llopresto87/Cypress": {
   "stars": 121,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "tettethu/VibeGame": {
   "stars": 379,
@@ -842,7 +842,7 @@
  "Omni-Scientist/Awesome-AI-Scientist": {
   "stars": 105,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "NullLabTests/software-periodic-table": {
   "stars": 85,
@@ -855,19 +855,19 @@
   "last_seen": "2026-10-14"
  },
  "metaevo-ai/harness-zero": {
-  "stars": 143,
+  "stars": 144,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ashutoshsinghpr7/wikiskill": {
   "stars": 287,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Ying-Kai-Liao/jev-browser": {
   "stars": 134,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "apowerb/apowerb": {
   "stars": 150,
@@ -877,12 +877,12 @@
  "proteus-evolve/Proteus": {
   "stars": 112,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "simonliu-ai-product/open-doc": {
   "stars": 116,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "agentic-ai-java/argi": {
   "stars": 80,
@@ -890,9 +890,9 @@
   "last_seen": "2026-10-09"
  },
  "lamost423/dsh-maze": {
-  "stars": 90,
+  "stars": 94,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "jiabaobei/skills-constitution": {
   "stars": 234,
@@ -905,9 +905,9 @@
   "last_seen": "2026-10-09"
  },
  "bigfish1913/pi-rust": {
-  "stars": 255,
+  "stars": 261,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "i3T4AN/KADATH": {
   "stars": 234,
@@ -915,14 +915,14 @@
   "last_seen": "2026-11-06"
  },
  "TencentCloud/octop-harness": {
-  "stars": 155,
+  "stars": 157,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "baidu-baige/LoongSage": {
-  "stars": 664,
+  "stars": 673,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "vincemakes/kiso": {
   "stars": 83,
@@ -947,12 +947,12 @@
  "Gen-Verse/Recuris": {
   "stars": 274,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Tongyi-MAI/Qwen-Planner-Agent": {
   "stars": 115,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "DaoyuanLi2816/mini-verl": {
   "stars": 307,
@@ -960,14 +960,14 @@
   "last_seen": "2026-10-25"
  },
  "Vuk97/forward-implementation-first": {
-  "stars": 184,
+  "stars": 185,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "QiantangCredit/heimdall-agent": {
-  "stars": 149,
+  "stars": 150,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "kazelad/algo-trading-agent": {
   "stars": 157,
@@ -977,7 +977,7 @@
  "Longado/ontopoc": {
   "stars": 181,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "dengyier/OpenWorkProof": {
   "stars": 262,
@@ -987,12 +987,12 @@
  "w1u2d3i4/multitown": {
   "stars": 201,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "agentscope-ai-java/agentscope-java": {
   "stars": 83,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "EthanXiang777/circuit-framework": {
   "stars": 281,
@@ -1012,7 +1012,7 @@
  "aiongo/mini-coding-agent-go": {
   "stars": 88,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "JingxuanC/causal-memory": {
   "stars": 101,
@@ -1035,14 +1035,14 @@
   "last_seen": "2026-10-29"
  },
  "AbuZar-Ansarii/Needle": {
-  "stars": 205,
+  "stars": 207,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "RectangleStory/Superpowers_Multi_AI": {
   "stars": 77,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "loop-js/loop.js": {
   "stars": 136,
@@ -1057,7 +1057,7 @@
  "openJiuwen-ai/agent-infer": {
   "stars": 108,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "wanqili857-byte/fictionforge": {
   "stars": 56,
@@ -1072,7 +1072,7 @@
  "lianghsun/open-sheet": {
   "stars": 126,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "levi-qiao/longgraph-skill": {
   "stars": 78,
@@ -1082,7 +1082,7 @@
  "cuppibla/live-dj": {
   "stars": 107,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ivyfan-toowell/IvyClaw": {
   "stars": 61,
@@ -1100,9 +1100,9 @@
   "last_seen": "2026-10-21"
  },
  "mouteee/autonomous-offensive-llm-handbook": {
-  "stars": 75,
+  "stars": 78,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-20"
+  "last_seen": "2026-11-13"
  },
  "eli-labz/Agent-Execution-Partnership": {
   "stars": 147,
@@ -1110,29 +1110,29 @@
   "last_seen": "2026-10-18"
  },
  "joe960913/Jixu": {
-  "stars": 93,
+  "stars": 94,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "yancent-dao/cockpit-agent-sim": {
   "stars": 97,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "fxl112233/anubis-agent": {
   "stars": 89,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "pbshgthm/arc-skill": {
   "stars": 90,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "SalesforceAIResearch/Beagle": {
   "stars": 105,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "agutinbaigo28/financial-agent-api": {
   "stars": 128,
@@ -1147,7 +1147,7 @@
  "actonos/actonos": {
   "stars": 55,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Inspired-by-Atmosphere/pulse-path": {
   "stars": 91,
@@ -1160,9 +1160,9 @@
   "last_seen": "2026-10-09"
  },
  "d4ncboz/technocore": {
-  "stars": 65,
+  "stars": 64,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "YintongHuo/awesome-agent-trajectory": {
   "stars": 97,
@@ -1182,7 +1182,7 @@
  "reghilkentpilaspilas-stack/plumb-core": {
   "stars": 55,
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "AbuZar-Ansarii/PocketStrike-AI": {
   "stars": 90,
@@ -1282,7 +1282,7 @@
  "luseye/voix": {
   "stars": 50,
   "first_seen": "2026-10-09",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Linwei-Chen/paper-deep-reader-skill": {
   "stars": 108,
@@ -1295,14 +1295,14 @@
   "last_seen": "2026-10-09"
  },
  "nano-muse/nanoMuse": {
-  "stars": 3428,
+  "stars": 3447,
   "first_seen": "2026-10-10",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Akun-python/autumn-recruitment": {
-  "stars": 307,
+  "stars": 309,
   "first_seen": "2026-10-10",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Ablation-Tool/ablation": {
   "stars": 222,
@@ -1355,24 +1355,24 @@
   "last_seen": "2026-10-16"
  },
  "Gen-Verse/RSI-Anything": {
-  "stars": 1146,
+  "stars": 1150,
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ovobrowsersupport/ovobrowser": {
-  "stars": 1176,
+  "stars": 1198,
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "dreamscroll-lab/asamana": {
   "stars": 162,
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "arcships/rutis": {
   "stars": 172,
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Vinist123/zhuling": {
   "stars": 51,
@@ -1380,19 +1380,19 @@
   "last_seen": "2026-10-26"
  },
  "leemysw/yovoice": {
-  "stars": 2170,
+  "stars": 2174,
   "first_seen": "2026-10-13",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "krishhgg/Insomnia": {
-  "stars": 2036,
+  "stars": 2044,
   "first_seen": "2026-10-13",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "1105216375-alt/resimind": {
   "stars": 292,
   "first_seen": "2026-10-13",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "sodiumsun/agenttrail": {
   "stars": 968,
@@ -1400,54 +1400,54 @@
   "last_seen": "2026-10-28"
  },
  "RayVelez27/instalanding.ai": {
-  "stars": 134,
+  "stars": 136,
   "first_seen": "2026-10-13",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "fudan-generative-vision/Remory": {
-  "stars": 683,
+  "stars": 720,
   "first_seen": "2026-10-13",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "BkashJEE/hermes-bot-forge": {
-  "stars": 145,
+  "stars": 146,
   "first_seen": "2026-10-13",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "zhuyansen/new-term-radar": {
-  "stars": 2165,
+  "stars": 2168,
   "first_seen": "2026-10-14",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "morluto/awesome-reverse-engineering": {
-  "stars": 2068,
+  "stars": 2094,
   "first_seen": "2026-10-14",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Harvil1/codeAgent": {
   "stars": 1011,
   "first_seen": "2026-10-14",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "mikamikasuki/forest": {
   "stars": 354,
   "first_seen": "2026-10-14",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Kiln-AI/Seahaven": {
   "stars": 61,
   "first_seen": "2026-10-14",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "marclou/mailcheap": {
-  "stars": 1678,
+  "stars": 1684,
   "first_seen": "2026-10-15",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ziplab/ATAS": {
   "stars": 271,
   "first_seen": "2026-10-15",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "MaxHu-xuan/task-state-guard": {
   "stars": 982,
@@ -1460,14 +1460,14 @@
   "last_seen": "2026-11-07"
  },
  "kajisho5/ffmpeg-skill": {
-  "stars": 5133,
+  "stars": 5347,
   "first_seen": "2026-10-16",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "deeplethe/solid-glass": {
-  "stars": 2067,
+  "stars": 2069,
   "first_seen": "2026-10-16",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "feder-cr/open_scion": {
   "stars": 1015,
@@ -1480,9 +1480,9 @@
   "last_seen": "2026-10-21"
  },
  "OpenSenseNova/SenseNova-RoboRSI": {
-  "stars": 658,
+  "stars": 686,
   "first_seen": "2026-10-16",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "mnemoverse/awesome-agent-memory": {
   "stars": 52,
@@ -1490,9 +1490,9 @@
   "last_seen": "2026-10-16"
  },
  "tangency-labs/solidcraft": {
-  "stars": 15873,
+  "stars": 16053,
   "first_seen": "2026-10-17",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "feder-cr/git-ai": {
   "stars": 1029,
@@ -1500,39 +1500,39 @@
   "last_seen": "2026-10-31"
  },
  "ShadowSwaps/REA-Reconstruction-Companion": {
-  "stars": 134,
+  "stars": 135,
   "first_seen": "2026-10-17",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "YuyaoGe/doc2harness": {
   "stars": 117,
   "first_seen": "2026-10-17",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "scenario-labs/blender-plugin": {
-  "stars": 979,
+  "stars": 982,
   "first_seen": "2026-10-17",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "zgcagi/Harness-RSI": {
-  "stars": 445,
+  "stars": 446,
   "first_seen": "2026-10-17",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "heyongjun666/AICU-Graph": {
-  "stars": 107,
+  "stars": 110,
   "first_seen": "2026-10-17",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "jwuthri-cloud/Tracely-ai": {
   "stars": 948,
   "first_seen": "2026-10-18",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Leonxlnx/earshot": {
-  "stars": 4548,
+  "stars": 4686,
   "first_seen": "2026-10-18",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "anujasid/blender-ai-mcp-addon": {
   "stars": 667,
@@ -1542,7 +1542,7 @@
  "hujjun/mcd-saver-strategist": {
   "stars": 1333,
   "first_seen": "2026-10-18",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "surendranb/writing-skills": {
   "stars": 54,
@@ -1565,9 +1565,9 @@
   "last_seen": "2026-11-06"
  },
  "Sekolah76/syadagentic": {
-  "stars": 103,
+  "stars": 104,
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Ayzzz123/mcd-coupon-strategist": {
   "stars": 990,
@@ -1575,29 +1575,29 @@
   "last_seen": "2026-10-26"
  },
  "kuafuai/andee": {
-  "stars": 5059,
+  "stars": 6047,
   "first_seen": "2026-10-20",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Gen-Verse/DiscoveryRSI": {
-  "stars": 149,
+  "stars": 150,
   "first_seen": "2026-10-20",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "wuyhong715/rikkahub-agent-pure": {
   "stars": 82,
   "first_seen": "2026-10-20",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "paseo-cafe/paseo-cafe": {
   "stars": 55,
   "first_seen": "2026-10-20",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "reason-machines/reason-network": {
-  "stars": 1733,
+  "stars": 1738,
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Straitanbulwark/algo-rpocket-trading-agent": {
   "stars": 50,
@@ -1605,9 +1605,9 @@
   "last_seen": "2026-10-21"
  },
  "hanzohanzhe/Grandet": {
-  "stars": 1302,
+  "stars": 1333,
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "davidondrej/cloudroom-core": {
   "stars": 1042,
@@ -1622,17 +1622,17 @@
  "EvannZhongg/Nosis": {
   "stars": 103,
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "mll-lab-nu/embodied-first-exam": {
-  "stars": 263,
+  "stars": 271,
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "JEen-wang/Adaptive-rag": {
-  "stars": 248,
+  "stars": 252,
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "evaldock/EvalDock": {
   "stars": 101,
@@ -1640,14 +1640,14 @@
   "last_seen": "2026-11-01"
  },
  "xuxueli/xxl-ai": {
-  "stars": 64,
+  "stars": 65,
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "xingjian-bai/opal": {
-  "stars": 444,
+  "stars": 451,
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "i12bp8/decomp.wtf": {
   "stars": 543,
@@ -1672,17 +1672,17 @@
  "imrj05/orbit": {
   "stars": 148,
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Ursa-Minor-Beta/agent-factory-docker-api-ui": {
   "stars": 101,
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "devswha/ovis": {
-  "stars": 2030,
+  "stars": 2045,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "lvzuojing/mcd-wrapped": {
   "stars": 517,
@@ -1690,9 +1690,9 @@
   "last_seen": "2026-10-25"
  },
  "LingCore/WinShun": {
-  "stars": 992,
+  "stars": 1013,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "y5ez3g/facadecode": {
   "stars": 146,
@@ -1702,72 +1702,72 @@
  "portyu9/qa-automation-ai-agent-evals": {
   "stars": 79,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Jim-tang/CompactAgent": {
   "stars": 95,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "portyu9/ai-qa-automation": {
   "stars": 81,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "1173591564/memory-manage": {
   "stars": 184,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Sam-Hui-dot/mcd-budget-meal": {
   "stars": 1327,
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "reacher-z/Awesome-CUA": {
-  "stars": 768,
+  "stars": 810,
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ethany14/Eregion-Job-Finding-Agent": {
   "stars": 75,
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "tinyhumansai/medulla": {
-  "stars": 62,
+  "stars": 63,
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "sno-ai/sno-station-skills": {
   "stars": 864,
   "first_seen": "2026-10-25",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "sno-ai/sno-station": {
-  "stars": 971,
+  "stars": 996,
   "first_seen": "2026-10-25",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "chipfighter/context-attachment-manager": {
-  "stars": 796,
+  "stars": 800,
   "first_seen": "2026-10-25",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "miuuyy/Octopus-SI-OS": {
-  "stars": 757,
+  "stars": 760,
   "first_seen": "2026-10-25",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "google/elephant-goldfish-model": {
-  "stars": 17796,
+  "stars": 18325,
   "first_seen": "2026-10-26",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "dagoSte/squadra": {
-  "stars": 1275,
+  "stars": 1277,
   "first_seen": "2026-10-26",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "nightly-labs/openbot": {
   "stars": 6767,
@@ -1780,19 +1780,19 @@
   "last_seen": "2026-11-05"
  },
  "EL4CTEO/blender-skills": {
-  "stars": 1007,
+  "stars": 1034,
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "csr1010/whatsapp-ai-agent-sdk": {
   "stars": 275,
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "HelixDB/helix-foundry": {
-  "stars": 2112,
+  "stars": 2114,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ChannelCooperStart/capri-ai": {
   "stars": 431,
@@ -1802,17 +1802,17 @@
  "ctoldigital/axuse": {
   "stars": 804,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "DozenTwelve/Papermorph": {
-  "stars": 1591,
+  "stars": 1613,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ChrisVip001/joyczl-agent": {
   "stars": 112,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ZJU-REAL/ageval": {
   "stars": 77,
@@ -1820,44 +1820,44 @@
   "last_seen": "2026-10-31"
  },
  "tradertanmay/ai-agents-zero-to-hero": {
-  "stars": 89,
+  "stars": 90,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "reacher-z/Awesome-REA": {
-  "stars": 2617,
+  "stars": 2698,
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "openqodex/openqodex": {
-  "stars": 1110,
+  "stars": 1156,
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "davidondrej/cloudroom": {
-  "stars": 1617,
+  "stars": 1639,
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "orhun/voff": {
-  "stars": 91,
+  "stars": 92,
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Windsander/Mebular": {
-  "stars": 174,
+  "stars": 181,
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "qybaihe/bla": {
-  "stars": 5377,
+  "stars": 5492,
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "jiwoochris/artex-global": {
-  "stars": 3128,
+  "stars": 3187,
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "x18n-dev/x18n": {
   "stars": 725,
@@ -1865,9 +1865,9 @@
   "last_seen": "2026-11-12"
  },
  "irraz/vulnerator-ai": {
-  "stars": 276,
+  "stars": 277,
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Tavotto/Tavotto": {
   "stars": 672,
@@ -1875,19 +1875,19 @@
   "last_seen": "2026-11-07"
  },
  "datamllab/HarborRL": {
-  "stars": 202,
+  "stars": 210,
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "SLEEPYBQ/MemoSync": {
-  "stars": 272,
+  "stars": 281,
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ZhangRui987/agent-oversight-framework": {
-  "stars": 57,
+  "stars": 56,
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "unitshaperextol/Legion-os": {
   "stars": 75,
@@ -1895,24 +1895,24 @@
   "last_seen": "2026-11-01"
  },
  "feimacode/open-design-agent-kit": {
-  "stars": 1111,
+  "stars": 1122,
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Ta0p1/ResolveLab": {
   "stars": 104,
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "daveebbelaar/bama": {
-  "stars": 1773,
+  "stars": 1790,
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "muaaz9329/cheap-ag": {
-  "stars": 329,
+  "stars": 330,
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "ShineStormEnhance/Capri-AI": {
   "stars": 525,
@@ -1920,24 +1920,24 @@
   "last_seen": "2026-11-01"
  },
  "alexgaoth/awesome-reverse-engineered": {
-  "stars": 1348,
+  "stars": 1365,
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "emanuele-em/kanzo": {
-  "stars": 1163,
+  "stars": 1177,
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "yzlin286-wq/Deepscient": {
-  "stars": 976,
+  "stars": 984,
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "LumioGames/LGUI": {
   "stars": 129,
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "capridotcom/Capri-AI": {
   "stars": 92,
@@ -1945,9 +1945,9 @@
   "last_seen": "2026-11-02"
  },
  "sahenjp/RustXNG": {
-  "stars": 957,
+  "stars": 965,
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "eliasbiondo/antirion": {
   "stars": 644,
@@ -1960,59 +1960,59 @@
   "last_seen": "2026-11-06"
  },
  "ngocanhnckh/renderlint": {
-  "stars": 402,
+  "stars": 433,
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "bodepudimuneendra-netizen/ConsciousDB": {
   "stars": 55,
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "KKKKhazix/agent-autoloop": {
-  "stars": 4567,
+  "stars": 4984,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "lexifina/global-law": {
-  "stars": 1945,
+  "stars": 1964,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "sheprd-labs/sheprd": {
-  "stars": 2277,
+  "stars": 2286,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "yjid/kensaku": {
-  "stars": 1669,
+  "stars": 1734,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "genex-games/genex-desktop": {
-  "stars": 839,
+  "stars": 849,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "uclanlp/OpenVLHarness": {
-  "stars": 462,
+  "stars": 482,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "YuhuaJiang2002/HarnessMM": {
-  "stars": 167,
+  "stars": 174,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "vAPI-Network/vapi-network": {
-  "stars": 4178,
+  "stars": 4282,
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "1bye/rake": {
-  "stars": 171,
+  "stars": 172,
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "chunkserviceenhance/Capri-AI": {
   "stars": 218,
@@ -2020,9 +2020,9 @@
   "last_seen": "2026-11-06"
  },
  "N1nEmAn/sapper-v2": {
-  "stars": 2007,
+  "stars": 2034,
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "phone-harness/mcp": {
   "stars": 791,
@@ -2032,22 +2032,22 @@
  "dy-liang/SAPO": {
   "stars": 72,
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "openrobokit/roboskills": {
-  "stars": 164,
+  "stars": 167,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "eust-w/opengeniemaster": {
-  "stars": 274,
+  "stars": 316,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Stahl-G/wikiskill": {
   "stars": 50,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "hevnsnt/CVEngine": {
   "stars": 706,
@@ -2055,9 +2055,9 @@
   "last_seen": "2026-11-11"
  },
  "AbuZar-Ansarii/Jarvis": {
-  "stars": 115,
+  "stars": 117,
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "alchaincyf/deepseek-harness-orange-book": {
   "stars": 1426,
@@ -2065,29 +2065,29 @@
   "last_seen": "2026-11-12"
  },
  "shinyobjectz/raea": {
-  "stars": 2201,
+  "stars": 2312,
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "voyager-so/vork": {
-  "stars": 1472,
+  "stars": 1502,
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "JosssphZhou/poki": {
-  "stars": 1005,
+  "stars": 1036,
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "vincentsch/explainroo": {
-  "stars": 1235,
+  "stars": 1264,
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "OmniJev/Flide": {
-  "stars": 458,
+  "stars": 483,
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "PotterRemember37/Capri-AI-Desktop": {
   "stars": 1025,
@@ -2095,9 +2095,9 @@
   "last_seen": "2026-11-10"
  },
  "expo/exact": {
-  "stars": 3087,
+  "stars": 3567,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "flohoeller/affectui": {
   "stars": 743,
@@ -2105,43 +2105,98 @@
   "last_seen": "2026-11-12"
  },
  "plingjs/pling": {
-  "stars": 112,
+  "stars": 119,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "guruvaidev/avaloka": {
-  "stars": 111,
+  "stars": 123,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit": {
-  "stars": 1151,
+  "stars": 1172,
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "helloHub1212/dsh-windows-mcp": {
-  "stars": 790,
+  "stars": 948,
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "respanai/respan-gateway": {
-  "stars": 775,
+  "stars": 801,
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "jamro/tiny-engineer": {
-  "stars": 1147,
+  "stars": 1159,
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "weixijia/mas-office": {
-  "stars": 56,
+  "stars": 65,
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Toyhom/EvoSprig": {
-  "stars": 51,
+  "stars": 66,
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
+ },
+ "vercel-labs/ui": {
+  "stars": 2497,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ "agentes-chat/agentes-chat": {
+  "stars": 1251,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ "synchopate/llama-modchip": {
+  "stars": 1149,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ "Marcian15350/mt5-tradeprotocol": {
+  "stars": 1103,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ "FrigadeHQ/yogurt": {
+  "stars": 1070,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ "Aquariuswonder/rpocket-OptionsCommander": {
+  "stars": 50,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ "n8n-io/nod": {
+  "stars": 902,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ "sametcelikbicak/opencode-team": {
+  "stars": 60,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ "edgerunners-2/capri-ai-desktop": {
+  "stars": 151,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ "awslabs/uaef": {
+  "stars": 89,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ "MrBekoX/root-agent-skill-framework": {
+  "stars": 50,
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
  }
 }
